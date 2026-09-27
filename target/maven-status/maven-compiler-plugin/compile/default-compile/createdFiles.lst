@@ -1,0 +1,8 @@
+Sangam\AbstractComponents\AbstractComponents.class
+Sangam\PageObject\CartPage.class
+Sangam\PageObject\ConfirmationPage.class
+Sangam\PageObject\ProductCatalogue.class
+Sangam\PageObject\OrderPage.class
+Sangam\Resources\ExtentReporterNG.class
+Sangam\PageObject\LandingPage.class
+Sangam\PageObject\CheckOutPage.class
