@@ -18,6 +18,7 @@ public class StandaloneTest {
 
 	public static void main(String[] args) throws InterruptedException {
 
+                //new comment
 		String productName = "ADIDAS ORIGINAL";
 		WebDriver driver = new ChromeDriver();
 		driver.manage().window().maximize();
